@@ -1,6 +1,3 @@
-# Strategy
-
-
 # Blu-H Strategy
 
 This repository documents the strategic direction of **Blu-H ASBL**, a Luxembourg-based non-profit organisation.
