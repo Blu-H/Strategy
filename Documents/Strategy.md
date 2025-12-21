@@ -3,7 +3,7 @@ DRAFT
 Blu-H Public Strategy & Operating Principles
 Draft – for public sharing
 
-#1. Why Blu-H Exists
+## 1. Why Blu-H Exists
 
 Blu-H is a science-first, public-interest organisation focused on improving flood risk awareness and decision-making through responsible use of Earth observation, data science, and predictive intelligence.
 
