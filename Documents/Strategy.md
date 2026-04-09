@@ -17,7 +17,7 @@ Our mission is to ensure that scientific innovation in flood monitoring is deplo
 Blu-H operates as an open scientific organisation. Methods, assumptions, validation approaches, and known limitations are documented and shared wherever possible.
 
 ### 2.2 Decisions, not dashboards
-Blu-H focuses on enabling better decisions under uncertainty, particularly for governments, responders, and public institutions operating in time-critical flood contexts.
+Blu-H focuses on enabling better decisions under uncertainty, particularly for governments, responders, and public institutions operating in time-critical flood contexts. Blu-H also does recognize the usefulness of dashboards and can partner to integrate the data into dashboards, but does not focus on dashboard developemnt. 
 
 ### 2.3 Public interest by design
 Blu-H does not optimise for commercial exploitation of humanitarian or disaster-related data.
@@ -28,13 +28,19 @@ Blu-H recognises that disaster and crisis contexts amplify vulnerability. Safegu
 ## 3. How Blu-H Works
 
 ### 3.1 Open technical infrastructure
-Blu-H uses open repositories and transparent documentation to manage scientific and technical work.
+Blu-H uses open repositories and transparent documentation to manage scientific and technical work. In addition, where possible, Blu-H will seek to partner with institutions in the development of peer-reviewed articles. 
 
 ### 3.2 Clear separation of roles
 Blu-H maintains a clear separation between governance, advisory, and operational functions.
 
-### 3.3 No field deployment
+### 3.3 No field deployment to disaster zones
 Blu-H does not deploy individuals into disaster zones.
+
+### 3.4 Training
+Blu-H will be able to provide training to agencies/groups remotely, but also in person, so long as there is funding available and if it does not conflict with any other statutes of Blu-H (i.e. no deployment to conflict zones)
+
+### 3.4 Media
+Blu-H is a science-first, public-interest organisation. Media inquries are directed through the appropriate official communications email addresses.
 
 ## 4. Governance & Accountability
 
